@@ -17,7 +17,11 @@ def read_anchors(anchors_path):
     with open(anchors_path) as f:
         anchors = f.readline()
         anchors = [float(x) for x in anchors.split(',')]
+        print("The Anchors value before reshape: " + str(anchors))
         anchors = np.array(anchors).reshape(-1, 2)
+        print("The Anchors value after reshape: " + str(anchors))
+        print("The Anchors shape after reshape: " + str(anchors.shape))
+        print("-------------------------------------------------------")
     return anchors
 
 def generate_colors(class_names):

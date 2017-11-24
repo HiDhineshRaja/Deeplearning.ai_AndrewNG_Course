@@ -13,4 +13,6 @@
 
 * **[Course 04 video link](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)**
 
+* **[Weights download link] (https://drive.google.com/drive/folders/1doIQAgXIdNLI_TcN6dyVd-OHrIIUlh3X?usp=sharing)**
+
 
